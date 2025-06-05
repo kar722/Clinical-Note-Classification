@@ -1,0 +1,30 @@
+CLINICAL HISTORY:
+Patient is a 65-year-old male with history of hypertension and type 2 diabetes mellitus presenting with chest pain.
+
+MEDICATIONS ON ADMISSION:
+1. Metformin 1000mg twice daily
+2. Lisinopril 10mg daily
+3. Aspirin 81mg daily
+
+PHYSICAL EXAMINATION:
+Vitals: BP 145/85, HR 78, RR 16, T 98.6F, O2 sat 98% on RA
+General: Alert and oriented, no acute distress
+Heart: Regular rate and rhythm, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdomen: Soft, non-tender, non-distended
+
+LABORATORY DATA:
+Troponin: 0.02 ng/mL
+BNP: 125 pg/mL
+Glucose: 142 mg/dL
+
+ASSESSMENT:
+1. Acute chest pain, likely anginal in nature
+2. Hypertension, poorly controlled
+3. Type 2 Diabetes Mellitus, fair control
+
+PLAN:
+1. Start nitroglycerin patch
+2. Increase lisinopril to 20mg daily
+3. Continue current diabetes medications
+4. Schedule stress test as outpatient 

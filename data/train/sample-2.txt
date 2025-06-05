@@ -1,0 +1,34 @@
+CLINICAL HISTORY:
+72-year-old female with history of atrial fibrillation and chronic kidney disease stage 3 presenting with progressive shortness of breath and lower extremity edema for 2 weeks.
+
+MEDICATIONS ON ADMISSION:
+1. Warfarin 5mg daily
+2. Furosemide 40mg daily
+3. Metoprolol 25mg twice daily
+4. Atorvastatin 40mg daily
+
+PHYSICAL EXAMINATION:
+Vitals: BP 132/78, HR 92 (irregular), RR 20, T 98.2F, O2 sat 94% on RA
+General: Elderly female in mild respiratory distress
+Heart: Irregular rhythm, no murmurs
+Lungs: Bilateral crackles at bases
+Extremities: 2+ pitting edema bilateral lower extremities
+
+LABORATORY DATA:
+BNP: 850 pg/mL
+Creatinine: 1.8 mg/dL
+INR: 2.4
+Potassium: 4.2 mEq/L
+
+ASSESSMENT:
+1. Acute decompensated heart failure
+2. Chronic atrial fibrillation, rate controlled
+3. Chronic kidney disease stage 3, stable
+4. Therapeutic on anticoagulation
+
+PLAN:
+1. Increase furosemide to 80mg daily
+2. Continue current rate control
+3. Daily weights and I/O monitoring
+4. Renal function monitoring
+5. Continue current anticoagulation 

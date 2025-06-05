@@ -1,0 +1,10 @@
+c="Warfarin" 4:3 4:3||r="TrAP"||c="atrial fibrillation" 1:8 1:9
+c="Furosemide" 5:3 5:3||r="TrAP"||c="lower extremity edema" 1:23 1:25
+c="Metoprolol" 6:3 6:3||r="TrAP"||c="Chronic atrial fibrillation" 25:3 25:5
+c="BNP" 18:1 18:1||r="TeRP"||c="Acute decompensated heart failure" 24:3 24:6
+c="Creatinine" 19:1 19:1||r="TeRP"||c="Chronic kidney disease stage 3" 26:3 26:7
+c="INR" 20:1 20:1||r="TeRP"||c="anticoagulation" 27:4 27:4
+c="furosemide" 30:3 30:3||r="TrAP"||c="Acute decompensated heart failure" 24:3 24:6
+c="rate control" 31:4 31:5||r="TrAP"||c="Chronic atrial fibrillation" 25:3 25:5
+c="weights and I/O monitoring" 32:3 32:6||r="TeCP"||c="Acute decompensated heart failure" 24:3 24:6
+c="Renal function monitoring" 33:3 33:5||r="TeCP"||c="Chronic kidney disease stage 3" 26:3 26:7 

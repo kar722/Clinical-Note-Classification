@@ -1,0 +1,6 @@
+c="hypertension" 1:9 1:9||t="problem"||a="present"
+c="type 2 diabetes mellitus" 1:11 1:14||t="problem"||a="present"
+c="chest pain" 1:17 1:18||t="problem"||a="present"
+c="Acute chest pain" 21:3 21:5||t="problem"||a="present"
+c="Hypertension" 22:3 22:3||t="problem"||a="present"
+c="Type 2 Diabetes Mellitus" 23:3 23:6||t="problem"||a="present" 

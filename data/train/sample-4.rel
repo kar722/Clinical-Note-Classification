@@ -1,0 +1,17 @@
+c="Sertraline" 4:3 4:3||r="TrAP"||c="major depressive disorder" 1:8 1:10
+c="Buspirone" 5:3 5:3||r="TrAP"||c="generalized anxiety disorder" 1:12 1:14
+c="Trazodone" 6:3 6:3||r="TrAP"||c="insomnia" 6:8 6:8
+c="TSH" 18:1 18:1||r="TeCP"||c="Major Depressive Disorder" 24:3 24:5
+c="Free T4" 19:1 19:2||r="TeCP"||c="Major Depressive Disorder" 24:3 24:5
+c="UDS" 20:1 20:1||r="TeCP"||c="illicit substances" 7:5 7:6
+c="Blood Alcohol" 21:1 21:2||r="TeCP"||c="illicit substances" 7:5 7:6
+c="Major Depressive Disorder" 24:3 24:5||r="PIP"||c="passive suicidal ideation" 1:19 1:21
+c="Major Depressive Disorder" 24:3 24:5||r="PIP"||c="Affect flat" 13:2 13:3
+c="Major Depressive Disorder" 24:3 24:5||r="PIP"||c="speech slow" 13:5 13:6
+c="Inpatient psychiatric admission" 31:3 31:5||r="TrAP"||c="Major Depressive Disorder" 24:3 24:5
+c="sertraline" 32:3 32:3||r="TrAP"||c="Major Depressive Disorder" 24:3 24:5
+c="buspirone" 33:3 33:3||r="TrAP"||c="Generalized Anxiety Disorder" 27:3 27:5
+c="cognitive behavioral therapy" 34:3 34:5||r="TrAP"||c="Major Depressive Disorder" 24:3 24:5
+c="safety assessments" 35:3 35:4||r="TeCP"||c="Passive suicidal ideation" 25:3 25:5
+c="Psychoeducation" 36:3 36:3||r="TrAP"||c="Medication non-compliance" 26:3 26:4
+c="Family meeting" 37:3 37:4||r="TeCP"||c="Major Depressive Disorder" 24:3 24:5 

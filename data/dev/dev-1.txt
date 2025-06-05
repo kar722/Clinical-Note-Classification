@@ -1,0 +1,34 @@
+CLINICAL HISTORY:
+45-year-old male with history of migraine headaches presenting with acute onset right-sided weakness and difficulty speaking for the past 2 hours. Patient reports preceding visual aura. No loss of consciousness.
+
+MEDICATIONS ON ADMISSION:
+1. Sumatriptan 100mg PRN for migraines
+2. Propranolol 40mg twice daily
+3. Magnesium oxide 400mg daily
+
+PHYSICAL EXAMINATION:
+Vitals: BP 158/92, HR 84, RR 16, T 98.4F, O2 sat 99% on RA
+General: Alert but anxious, mild word-finding difficulty
+Neuro: Right facial droop, 4/5 strength right arm and leg
+Speech: Mild expressive aphasia
+Gait: Mildly unsteady, favoring right side
+
+LABORATORY DATA:
+CBC: Within normal limits
+CMP: Within normal limits
+CT Head: No acute hemorrhage
+MRI Brain: Small area of restricted diffusion left MCA territory
+
+ASSESSMENT:
+1. Acute ischemic stroke, left MCA distribution
+2. Chronic migraine with aura
+3. Hypertension, newly diagnosed
+4. Expressive aphasia
+
+PLAN:
+1. Neurology consultation
+2. Consider tPA if within window
+3. Carotid ultrasound
+4. Echocardiogram
+5. Start aspirin and high-intensity statin
+6. Speech therapy evaluation 

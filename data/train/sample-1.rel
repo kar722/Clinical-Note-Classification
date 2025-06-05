@@ -1,0 +1,6 @@
+c="Metformin" 4:3 4:3||r="TrAP"||c="type 2 diabetes mellitus" 1:11 1:14
+c="Lisinopril" 5:3 5:3||r="TrAP"||c="hypertension" 1:9 1:9
+c="nitroglycerin patch" 26:3 26:4||r="TrAP"||c="Acute chest pain" 21:3 21:5
+c="lisinopril" 27:3 27:3||r="TrAP"||c="Hypertension" 22:3 22:3
+c="diabetes medications" 28:4 28:5||r="TrAP"||c="Type 2 Diabetes Mellitus" 23:3 23:6
+c="stress test" 29:3 29:4||r="TeRP"||c="Acute chest pain" 21:3 21:5 

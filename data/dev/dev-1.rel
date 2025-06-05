@@ -1,0 +1,12 @@
+c="Sumatriptan" 4:3 4:3||r="TrAP"||c="migraines" 4:7 4:7
+c="Propranolol" 5:3 5:3||r="TrAP"||c="migraine headaches" 1:8 1:9
+c="Magnesium oxide" 6:3 6:4||r="TrAP"||c="migraine headaches" 1:8 1:9
+c="CT Head" 19:1 19:2||r="TeCP"||c="Acute ischemic stroke" 23:3 23:5
+c="MRI Brain" 20:1 20:2||r="TeRP"||c="Acute ischemic stroke" 23:3 23:5
+c="restricted diffusion left MCA territory" 20:4 20:8||r="PIP"||c="Acute ischemic stroke" 23:3 23:5
+c="tPA" 29:3 29:3||r="TrAP"||c="Acute ischemic stroke" 23:3 23:5
+c="Carotid ultrasound" 30:3 30:4||r="TeCP"||c="Acute ischemic stroke" 23:3 23:5
+c="Echocardiogram" 31:3 31:3||r="TeCP"||c="Acute ischemic stroke" 23:3 23:5
+c="aspirin" 32:3 32:3||r="TrAP"||c="Acute ischemic stroke" 23:3 23:5
+c="high-intensity statin" 32:5 32:7||r="TrAP"||c="Acute ischemic stroke" 23:3 23:5
+c="Speech therapy" 33:3 33:4||r="TrAP"||c="Expressive aphasia" 26:3 26:4 

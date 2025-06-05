@@ -1,0 +1,45 @@
+CLINICAL HISTORY:
+58-year-old male post-operative day 3 status post laparoscopic cholecystectomy presenting with fever, increasing abdominal pain, and decreased urine output. Initial surgery was complicated by minor bile duct injury identified and repaired intraoperatively. Patient reports worsening right upper quadrant pain and nausea since yesterday.
+
+MEDICATIONS ON ADMISSION:
+1. Hydromorphone PCA
+2. Cefazolin 2g IV q8h
+3. Pantoprazole 40mg daily
+4. Home medications held (antihypertensives)
+
+PHYSICAL EXAMINATION:
+Vitals: T 101.8F, HR 112, BP 92/58, RR 22, O2 sat 95% on RA
+General: Appears uncomfortable, diaphoretic
+Abdomen: Moderate tenderness RUQ, surgical ports clean, mild distention
+Cardiovascular: Tachycardic, no murmurs
+Respiratory: Decreased breath sounds right base
+Skin: Warm, no rash or jaundice
+
+LABORATORY DATA:
+WBC: 18.2 K/uL
+Hgb: 10.1 g/dL (decreased from 12.8)
+Platelets: 245 K/uL
+Creatinine: 1.8 mg/dL (baseline 0.9)
+Total bilirubin: 2.2 mg/dL
+Lipase: 45 U/L
+Lactic acid: 3.2 mmol/L
+
+IMAGING:
+CT Abdomen/Pelvis with contrast: Small fluid collection adjacent to gallbladder fossa with surrounding inflammatory changes. No definite abscess.
+
+ASSESSMENT:
+1. Post-operative fever and hypotension, concerning for early sepsis
+2. Acute kidney injury, likely pre-renal
+3. Possible bile leak vs post-operative inflammatory response
+4. Post-operative pain
+5. Status post laparoscopic cholecystectomy with intraoperative bile duct repair
+
+PLAN:
+1. Transfer to surgical ICU for close monitoring
+2. Start broad-spectrum antibiotics (Piperacillin-tazobactam)
+3. IV fluid resuscitation
+4. HIDA scan to evaluate for bile leak
+5. Continue pain management
+6. Hold antihypertensives
+7. Serial abdominal exams
+8. Surgical consultation for possible re-exploration 

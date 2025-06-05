@@ -1,0 +1,19 @@
+c="laparoscopic cholecystectomy" 1:8 1:9||r="TrCP"||c="bile duct injury" 1:24 1:26
+c="laparoscopic cholecystectomy" 1:8 1:9||r="TrCP"||c="Post-operative pain" 34:3 34:4
+c="Hydromorphone" 4:3 4:3||r="TrAP"||c="Post-operative pain" 34:3 34:4
+c="Cefazolin" 5:3 5:3||r="TrAP"||c="post-operative inflammatory response" 33:6 33:8
+c="Pantoprazole" 6:3 6:3||r="TrIP"||c="bile leak" 33:3 33:4
+c="WBC" 19:1 19:1||r="TeRP"||c="sepsis" 31:10 31:10
+c="Creatinine" 22:1 22:1||r="TeRP"||c="Acute kidney injury" 32:3 32:5
+c="Total bilirubin" 23:1 23:2||r="TeRP"||c="bile leak" 33:3 33:4
+c="Lactic acid" 25:1 25:2||r="TeRP"||c="sepsis" 31:10 31:10
+c="CT Abdomen/Pelvis" 28:1 28:2||r="TeRP"||c="fluid collection" 28:4 28:5
+c="CT Abdomen/Pelvis" 28:1 28:2||r="TeRP"||c="inflammatory changes" 28:10 28:11
+c="surgical ICU" 37:3 37:4||r="TrAP"||c="sepsis" 31:10 31:10
+c="Piperacillin-tazobactam" 38:4 38:4||r="TrAP"||c="sepsis" 31:10 31:10
+c="IV fluid resuscitation" 39:3 39:5||r="TrAP"||c="hypotension" 31:6 31:6
+c="HIDA scan" 40:3 40:4||r="TeRP"||c="bile leak" 33:3 33:4
+c="pain management" 41:3 41:4||r="TrAP"||c="Post-operative pain" 34:3 34:4
+c="abdominal exams" 43:3 43:4||r="TeRP"||c="post-operative inflammatory response" 33:6 33:8
+c="Surgical consultation" 44:3 44:4||r="TeCP"||c="bile leak" 33:3 33:4
+c="re-exploration" 44:7 44:7||r="TrAP"||c="bile leak" 33:3 33:4 
